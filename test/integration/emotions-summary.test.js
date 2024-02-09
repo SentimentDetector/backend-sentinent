@@ -1,4 +1,3 @@
-// generate-emotions-summary.test.js
 import generateEmotionsSummary from '../../modules/emotion-summary.js';
 
 async function runIntegrationTest() {
@@ -12,7 +11,6 @@ async function runIntegrationTest() {
             id: 2,
             message: "Feeling sad today.",
         },
-        
     ];
 
     try {

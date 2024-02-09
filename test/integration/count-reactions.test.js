@@ -1,4 +1,3 @@
-// count-reactions.test.js
 import countReactions from '../../modules/count-reactions.js';
 
 async function runIntegrationTest() {
@@ -12,7 +11,6 @@ async function runIntegrationTest() {
             sad: { summary: { total_count: 0 } },
             angry: { summary: { total_count: 4 } },
         },
-    
     ];
 
     try {

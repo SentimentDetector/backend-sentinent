@@ -1,8 +1,6 @@
-
 import getFeedback from '../../modules/feedback.js';
 
 async function runIntegrationTest() {
-    
     const reactionsSummary = {
         totalLikes: 5,
         totalLoves: 3,
