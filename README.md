@@ -59,6 +59,12 @@ To run ESLint and automatically fix all fixable errors, use the following comman
 ```bash
 npx eslint . --fix
 ```
+It's recommended to test the modules,so we choosed Jest for the test.
+To run test with Jest,you can use the following command : 
+```Test
+npm install,
+npm test
+```
 
 ## Deployment
 
