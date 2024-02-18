@@ -40,7 +40,7 @@ async function getFeedback(reactionsSummary) {
   } else {
     feedback = 'Your sentiment score is influenced by the types and quantity '+
                 'of reactions on your posts. You have an equal balance of '+
-                'positive and negative interactions,, your posts are '+
+                'positive and negative interactions, your posts are '+
                 'maintaining a neutral sentiment. Spice things up with '+
                 'diverse content to keep your audience engaged.';
   }
