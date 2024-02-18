@@ -65,6 +65,10 @@ To run test with Jest,you can use the following command :
 npm install,
 npm test
 ```
+However, if you want to see the code coverage for this backend application, you should run the following command:
+```bash
+npx jest --coverage
+```
 
 ## Deployment
 
