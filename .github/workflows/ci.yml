@@ -35,4 +35,4 @@ jobs:
       run: npm test
 
     - name: Check code coverage
-      run: npx jest --coverage
+      run: npx jest --coverage 
