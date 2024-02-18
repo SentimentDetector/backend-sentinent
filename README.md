@@ -74,3 +74,6 @@ npx jest --coverage
 
 The Sentiment Detector application is deployed on [Vercel](https://vercel.com/). You can access the deployed version of the application [here](https://backend-sentinent.vercel.app/feed-back).
 
+## Issue: Application Compatibility Limited to Linked Users in Meta App
+
+Currently, the application is designed to work seamlessly only with users who are linked within the Meta App ecosystem. If you're attempting to use the application with users who are not part of this linked network, you may encounter compatibility issues or unexpected behavior.
